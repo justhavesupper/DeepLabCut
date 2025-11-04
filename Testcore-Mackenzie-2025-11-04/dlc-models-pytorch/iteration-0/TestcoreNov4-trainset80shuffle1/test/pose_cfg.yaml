@@ -1,0 +1,16 @@
+dataset: D:\pycode\DeepLabCut\Testcore-Mackenzie-2025-11-04
+dataset_type: multi-animal-imgaug
+num_joints: 4
+all_joints:
+- - 0
+- - 1
+- - 2
+- - 3
+all_joints_names:
+- bodypart1
+- bodypart2
+- bodypart3
+- objectA
+net_type: resnet_50
+global_scale: 1
+scoremap_dir: test
